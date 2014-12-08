@@ -13,6 +13,7 @@
 		C65EF7101A34D1E6000052DC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C65EF70F1A34D1E6000052DC /* Images.xcassets */; };
 		C65EF7131A34D1E6000052DC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C65EF7111A34D1E6000052DC /* LaunchScreen.xib */; };
 		C65EF71F1A34D1E6000052DC /* DogYearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65EF71E1A34D1E6000052DC /* DogYearsTests.swift */; };
+		C65EF7291A34D24C000052DC /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C65EF7281A34D24C000052DC /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		C65EF7181A34D1E6000052DC /* DogYearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogYearsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C65EF71D1A34D1E6000052DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C65EF71E1A34D1E6000052DC /* DogYearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogYearsTests.swift; sourceTree = "<group>"; };
+		C65EF7281A34D24C000052DC /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				C65EF70A1A34D1E6000052DC /* ViewController.swift */,
 				C65EF70C1A34D1E6000052DC /* Main.storyboard */,
 				C65EF70F1A34D1E6000052DC /* Images.xcassets */,
+				C65EF7281A34D24C000052DC /* AgeOfLaika.jpg */,
 				C65EF7111A34D1E6000052DC /* LaunchScreen.xib */,
 				C65EF7061A34D1E6000052DC /* Supporting Files */,
 			);
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C65EF70E1A34D1E6000052DC /* Main.storyboard in Resources */,
+				C65EF7291A34D24C000052DC /* AgeOfLaika.jpg in Resources */,
 				C65EF7131A34D1E6000052DC /* LaunchScreen.xib in Resources */,
 				C65EF7101A34D1E6000052DC /* Images.xcassets in Resources */,
 			);
